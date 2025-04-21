@@ -28,3 +28,8 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
+
+
+// Text('',style: textTheme.bodyMedium!.copyWith(fontSize: tS * 12,color: const Color(0xFF),),)
+
+// style: Theme.of(context).textTheme.bodyMedium!.copyWith(fontSize: tS* ),

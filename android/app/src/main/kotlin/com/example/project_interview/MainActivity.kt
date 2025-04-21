@@ -1,6 +1,5 @@
-package com.example.project_interview
+package com.interviewflow.app
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity() {
-}
+class MainActivity : FlutterActivity()
